@@ -369,3 +369,31 @@ show students how to transform ideas into market-ready products.
 1. [Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
 
 </details>
+
+<div id="paypal-button-container"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
+<script>
+  paypal.Buttons({
+      style: {
+          shape: 'rect',
+          color: 'blue',
+          layout: 'vertical',
+          label: 'paypal',
+          
+      },
+      createOrder: function(data, actions) {
+          return actions.order.create({
+              purchase_units: [{
+                  amount: {
+                      value: ''
+                  }
+              }]
+          });
+      },
+      onApprove: function(data, actions) {
+          return actions.order.capture().then(function(details) {
+              alert('Transaction completed by ' + details.payer.name.given_name + '!');
+          });
+      }
+  }).render('#paypal-button-container');
+</script>
