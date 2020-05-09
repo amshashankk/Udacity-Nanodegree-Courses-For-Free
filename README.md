@@ -134,8 +134,6 @@ support hundreds of thousands of users.
 
 ### Senior Web Developer Nanodegree
 
-#### _No longer listed on Udacity_
-
 <details>
   <summary>View Details</summary>
 
@@ -334,8 +332,6 @@ expertise as an iOS Developer.
 
 ### Mobile Game Developer Nanodegree
 
-#### _No longer listed on Udacity_
-
 <details>
   <summary>View Details</summary>
 
@@ -355,8 +351,6 @@ devices and operating systems.
 ---
 
 ### Tech Entrepreneur Nanodegree
-
-#### _No longer listed on Udacity_
 
 <details>
   <summary>View Details</summary>
