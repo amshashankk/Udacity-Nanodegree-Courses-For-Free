@@ -381,4 +381,4 @@ show students how to transform ideas into market-ready products.
 
 ### Support Me
 *Your 5 Rs can help me a lot*
-[Pay Here](https://www.paypal.me/amshashank?locale.x=en_GB)
+[Pay Here](https://paytm.me/Zchp-oi)
