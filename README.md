@@ -380,5 +380,7 @@ show students how to transform ideas into market-ready products.
 * [Facebook](https://www.facebook.com/me.shashank/)
 
 ### Support Me
-*Your 5 Rs can help me a lot*
+**Your  Rs can help me a lot**
+
+
 [Pay Here](https://paytm.me/Mpy-XB1)
