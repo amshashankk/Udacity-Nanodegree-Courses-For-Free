@@ -370,3 +370,15 @@ show students how to transform ideas into market-ready products.
 
 </details>
 
+
+## Thanks for visit. I hope you will earn great achievements in your life.
+
+
+**Do Follow Me on:**
+* [Instagram](https://www.instagram.com/am.shashank)
+* [LinkedIn](https://www.linkedin.com/in/am-shashank/)
+* [Facebook](https://www.facebook.com/me.shashank/)
+
+### Support Me
+*Your 5 Rs can help me a lot*
+[Pay Here](https://www.paypal.me/amshashank?locale.x=en_GB)
