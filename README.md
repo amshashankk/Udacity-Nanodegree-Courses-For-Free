@@ -378,6 +378,8 @@ show students how to transform ideas into market-ready products.
 * [Instagram](https://www.instagram.com/am.shashank)
 * [LinkedIn](https://www.linkedin.com/in/am-shashank/)
 * [Facebook](https://www.facebook.com/me.shashank/)
+* [Github](https://www.github.com/amshashank)
+
 
 ### Support Me
 **Your Support can help me a lot**
