@@ -385,4 +385,4 @@ show students how to transform ideas into market-ready products.
 **Your Support can help me a lot**
 
 
-[![Pay Here](https://img.shields.io/badge/Pay-Here-%40Paytm-%230077B5?style=flat&logo=#)](https://paytm.me/Mpy-XB1)
+[![Pay Here](https://img.shields.io/badge/Pay-Here-%40Paytm-%230077B5?style=flat&logo=Paytm)](https://paytm.me/Mpy-XB1)
