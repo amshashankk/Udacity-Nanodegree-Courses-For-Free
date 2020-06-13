@@ -375,10 +375,10 @@ show students how to transform ideas into market-ready products.
 
 
 **Do Follow Me on:**
-* [![Instagram](https://img.shields.io/badge/connect-%40ShashankKesarwani-%230077B5?style=flat&logo=Instagram)](https://www.instagram.com/am.shashank)
-* [![LinkedIn](https://img.shields.io/badge/connect-%40ShashankKesarwani-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/am-shashank/)
-* [![Facebook](https://img.shields.io/badge/connect-%40ShashankKesarwani-%230077B5?style=flat&logo=Facebook)](https://www.facebook.com/me.shashank/)
-* [![Github](https://img.shields.io/badge/connect-%40ShashankKesarwani-%230077B5?style=flat&logo=Github)](https://www.github.com/amshashank)
+[![Instagram](https://img.shields.io/badge/connect-%40ShashankKesarwani-%230077B5?style=flat&logo=Instagram)](https://www.instagram.com/am.shashank)
+[![LinkedIn](https://img.shields.io/badge/connect-%40ShashankKesarwani-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/am-shashank/)
+[![Facebook](https://img.shields.io/badge/connect-%40ShashankKesarwani-%230077B5?style=flat&logo=Facebook)](https://www.facebook.com/me.shashank/)
+[![Github](https://img.shields.io/badge/connect-%40ShashankKesarwani-%230077B5?style=flat&logo=Github)](https://www.github.com/amshashank)
 
 
 ### Support Me
